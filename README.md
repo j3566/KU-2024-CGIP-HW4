@@ -17,4 +17,4 @@ KU-2024-CGIP-HW4
   - ./build/Release/KU-2024-CGIP-HW4.exe 실행
  
 - Transformations and Rasterization
-<img alt="hw4" src="ttps://github.com/j3566/KU-2024-CGIP-HW4/assets/54254599/9734ec8a-8e1a-4db1-8214-9c064e91be0a">
+<img alt="hw4" src="https://github.com/j3566/KU-2024-CGIP-HW4/assets/54254599/9734ec8a-8e1a-4db1-8214-9c064e91be0a">
