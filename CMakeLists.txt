@@ -18,7 +18,7 @@ add_executable (KU-2024-CGIP-HW4 "KU-2024-CGIP-HW4.cpp" )
 
 add_custom_command(TARGET KU-2024-CGIP-HW4 POST_BUILD
     COMMAND ${CMAKE_COMMAND} -E copy_if_different
-    "glut37/glut32.dll"
+    "${CMAKE_SOURCE_DIR}/glut37/glut32.dll"
     $<TARGET_FILE_DIR:KU-2024-CGIP-HW4>)
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
